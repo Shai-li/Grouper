@@ -38,5 +38,38 @@
         "city": "Haifa",
         "email": "Keren@gmail.com",
         "intrest": "Tenis"
-  }
+  },
+  {
+      "firstName": "Adir",
+      "lastName": "Akuka",
+      "adress": "HaPoalim 8"
+      "city": "Netanya"
+      "email": "AdirA@gmaill.com",
+      "interst": "Guitar"
+  },
+    {
+      "firstName": "Alex",
+      "lastName": "Kadosh",
+      "adress": "Hertzel 93"
+      "city": "Nahariya"
+      "email": "AlexKadosh@gmaill.com",
+      "interst": "Music"
+  },
+    {
+      "firstName": "Eli",
+      "lastName": "Goshen",
+      "adress": "HaShita 25"
+      "city": "Akko"
+      "email": "EGoshen@gmaill.com",
+      "interst": "Gadgets"
+  },
+    {
+      "firstName": "Limor",
+      "lastName": "Malka",
+      "adress": "Hamasger 5"
+      "city": "Tel Aviv"
+      "email": "LimorM@gmaill.com",
+      "interst": "Guitar"
+  },
+  
 ]
