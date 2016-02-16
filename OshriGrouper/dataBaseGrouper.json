@@ -45,7 +45,7 @@
       "adress": "HaPoalim 8"
       "city": "Netanya"
       "email": "AdirA@gmaill.com",
-      "interst": "Guitar"
+      "intrest": "Guitar"
   },
     {
       "firstName": "Alex",
@@ -53,7 +53,7 @@
       "adress": "Hertzel 93"
       "city": "Nahariya"
       "email": "AlexKadosh@gmaill.com",
-      "interst": "Music"
+      "intrest": "Music"
   },
     {
       "firstName": "Eli",
@@ -61,7 +61,7 @@
       "adress": "HaShita 25"
       "city": "Akko"
       "email": "EGoshen@gmaill.com",
-      "interst": "Gadgets"
+      "intrest": "Gadgets"
   },
     {
       "firstName": "Limor",
@@ -69,7 +69,7 @@
       "adress": "Hamasger 5"
       "city": "Tel Aviv"
       "email": "LimorM@gmaill.com",
-      "interst": "Guitar"
-  },
+      "intrest": "Guitar"
+  }
   
 ]
